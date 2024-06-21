@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://milosbugarinovic.github.io/cv-web-milos/static/css/main.24f3bd93.css",
-    "main.js": "https://milosbugarinovic.github.io/cv-web-milos/static/js/main.ab6398ac.js",
-    "index.html": "https://milosbugarinovic.github.io/cv-web-milos/index.html",
-    "main.24f3bd93.css.map": "https://milosbugarinovic.github.io/cv-web-milos/static/css/main.24f3bd93.css.map",
-    "main.ab6398ac.js.map": "https://milosbugarinovic.github.io/cv-web-milos/static/js/main.ab6398ac.js.map"
+    "main.css": "/cv-web-milos/static/css/main.24f3bd93.css",
+    "main.js": "/cv-web-milos/static/js/main.7101e96f.js",
+    "index.html": "/cv-web-milos/index.html",
+    "main.24f3bd93.css.map": "/cv-web-milos/static/css/main.24f3bd93.css.map",
+    "main.7101e96f.js.map": "/cv-web-milos/static/js/main.7101e96f.js.map"
   },
   "entrypoints": [
     "static/css/main.24f3bd93.css",
-    "static/js/main.ab6398ac.js"
+    "static/js/main.7101e96f.js"
   ]
 }
