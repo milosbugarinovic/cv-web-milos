@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cv-web-milos/static/css/main.24f3bd93.css",
-    "main.js": "/cv-web-milos/static/js/main.7101e96f.js",
+    "main.js": "/cv-web-milos/static/js/main.5ae72219.js",
     "index.html": "/cv-web-milos/index.html",
     "main.24f3bd93.css.map": "/cv-web-milos/static/css/main.24f3bd93.css.map",
-    "main.7101e96f.js.map": "/cv-web-milos/static/js/main.7101e96f.js.map"
+    "main.5ae72219.js.map": "/cv-web-milos/static/js/main.5ae72219.js.map"
   },
   "entrypoints": [
     "static/css/main.24f3bd93.css",
-    "static/js/main.7101e96f.js"
+    "static/js/main.5ae72219.js"
   ]
 }
